@@ -1,0 +1,5 @@
+Adaptive Echo Cancellation
+- Implemented LMS, NLMS and RLS adaptive filtering algorithms for echo estimation and cancellation.
+- Analyzed MSE, MAE and ERLE performance under different noise conditions.
+- Compared convergence speed and echo suppression performance of different adaptive algorithms.
+- Used MATLAB/Python for algorithm implementation, simulation, and performance analysis
